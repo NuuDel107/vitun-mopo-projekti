@@ -1,6 +1,6 @@
 # Idea:
 	
-### Lapsille tarkoitettu työntökärry (esimerkki), jonka taka-akseliin kiinnitetään vahva imurista peräisin oleva DC-moottori. 
+### Lapsille tarkoitettu työntökärry ([esimerkki](https://www.etola.net/wp-content/uploads/punaineniso.234b5e8d-6d40-4b76-9f06-2c657ab21bd8-1.jpg)), jonka taka-akseliin kiinnitetään vahva imurista peräisin oleva DC-moottori. 
 ### Moottoria olisi tarkoitus kauko-ohjata jotenkin, näillä näkymin Raspberry Pi:llä, Arduinolla ja ohjaamiseen tarkoitetulla Android-sovelluksella, joka yhdistetään RasPiin Bluetoothin avulla.
 
 # Työvaiheet / Osa-alueet:
