@@ -7,8 +7,8 @@
 
 ## 1. Moottorin kiinnitys taka-akseliin, toiminnan varmistus
 
-TÄRKEIN ASIA ENSIN: Onko moottorissa tarpeeksi vääntöä oikeasti liikuttamaan kärryä?
-Kiinnitysmekanismin pitää olla erittäin jykevä, se tulee kokemaan kovia
+- TÄRKEIN ASIA ENSIN: Onko moottorissa tarpeeksi vääntöä oikeasti liikuttamaan kärryä?
+- Kiinnitysmekanismin pitää olla erittäin jykevä, se tulee kokemaan kovia
 
 ## 2. Moottorin ohjaus Arduinolla
 
